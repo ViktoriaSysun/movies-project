@@ -36,7 +36,7 @@ span {
 
 .companies div, .countries div, .genres div {
 
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #f8e5e5;
 
 }
 
@@ -87,7 +87,7 @@ span {
     }
 
     .genres div, .companies div, .countries div {
-        border-bottom: 1px solid gray;
+        border-bottom: 1px solid #fafbfc;
     }
 
 }

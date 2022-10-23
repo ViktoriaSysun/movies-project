@@ -13,7 +13,7 @@ header {
     justify-content: space-between;
     align-items: center;
 
-    background-color: #313131;
+    background-color: #fafbfc;
 
     padding: 0 20px;
 
@@ -21,7 +21,7 @@ header {
 
 .header_logo {
 
-    color: #777777;
+    color: #06d6ee;
     font-weight: bold;
     font-size: 24px;
 
@@ -55,7 +55,7 @@ header {
     border: none;
     padding: 0;
 
-    color: #777;
+    color: #06d6ee;
     font-weight: bolder;
     font-size: 18px;
 

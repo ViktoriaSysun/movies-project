@@ -8,7 +8,7 @@
 
     position: relative;
 
-    background-color: white;
+    background-color: #440c44;
 
 }
 
@@ -17,15 +17,15 @@
     padding: 20px;
     margin-bottom: 25px;
 
-    background-color: white;
-    border-bottom: 2px solid silver;
+    background-color: #aaeff6;
+    border-bottom: 2px solid #3389ec;
 
 }
 
 .navbar button {
 
-    background-color: #313131;
-    color: white;
+    background-color: #337880;
+    color: #faf8f8;
     font-weight: bolder;
     border: none;
     cursor: pointer;
@@ -51,7 +51,7 @@
     width: 600px;
     height: 35px;
 
-    border: 1px solid #313131;
+    border: 1px solid #0fdef5;
     border-right: none;
 
     padding-left: 15px;
@@ -68,8 +68,8 @@
     height: 35px;
 
     border: none;
-    background-color: #313131;
-    color: snow;
+    background-color: #0e7a8d;
+    color: #faf8f8;
 
     cursor: pointer;
     transition: all .2s ease-in-out;
@@ -99,8 +99,8 @@
     flex-wrap: wrap;
     gap: 5px;
 
-    background-color: #efefef;
-    border: 1px solid #222;
+    background-color: #3d3d3d;
+    border: 1px solid #2c2b2b;
     z-index: 100;
 
 }
@@ -112,10 +112,10 @@
 
     border: none;
     border-radius: 10px;
-    color: white;
+    color: #efd6d6;
 
     cursor: pointer;
-    background-color: #777;
+    background-color: #d9c4c4;
     transition: all .2s linear;
 
 }
@@ -155,7 +155,7 @@ h2 {
     margin: 0 auto 25px;
     padding-bottom: 10px;
 
-    border-bottom: 2px solid gray;
+    border-bottom: 2px solid #e5bbbb;
 
     text-align: center;
 
@@ -166,7 +166,7 @@ h2 {
     display: flex;
     justify-content: center;
 
-    color: #777777;
+    color: #e0b6b6;
     font-weight: bold;
     font-size: 25px;
 
@@ -197,7 +197,7 @@ h2 {
     align-items: center;
     gap: 10px;
 
-    color: #777;
+    color: #a48585;
 
 }
 
@@ -206,10 +206,10 @@ h2 {
     height: 30px;
     width: 30px;
 
-    background-color: #313131;
+    background-color: #5b3f3f;
     border-radius: 4px;
     border: none;
-    color: #777;
+    color: #947777;
 
     cursor: pointer;
 
@@ -219,15 +219,15 @@ h2 {
 .pagination button:hover {
 
     background-color: transparent;
-    border: 2px solid #313131;
+    border: 2px solid #231c1c;
 
 }
 
 .pagination button:disabled {
 
     opacity: 0.3;
-    background-color: #313131;
-    color: #777;
+    background-color: #443434;
+    color: #e5acac;
 
 }
 
@@ -244,7 +244,7 @@ h2 {
 
     font-weight: bold;
     font-size: 24px;
-    color: #777;
+    color: #cba6a6;
 
     width: 50px;
     height: 50px;
