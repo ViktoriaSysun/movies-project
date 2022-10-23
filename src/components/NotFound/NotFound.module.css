@@ -9,10 +9,10 @@
     justify-content: center;
     align-items: center;
 
-    background-color: white;
+    background-color: #e78ce7;
 }
 
 .not_found h1 {
-    color: #777;
+    color: #06ea06;
     font-size: 45px;
 }
