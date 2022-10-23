@@ -2,14 +2,14 @@
 
     margin: 0 10px;
 
-    color: #777;
+    color: #0d210d;
     font-size: 14px;
 
 }
 
 .movie_title {
 
-    color: #ee05ee;
+    color: #08c7e8;
     font-weight: 500;
     font-size: 18px;
     line-height: 1;
@@ -33,9 +33,9 @@
 
 .number_wrapper {
 
-    background-color: #5e105e;
-    color: white;
-    border-radius: 3px;
+    background-color: #04a4be;
+    color: #fafbfc;
+    border-radius: 20px;
 
     height: 25px;
     width: 25px;

@@ -9,7 +9,7 @@ const Userinfo = () => {
     return(
         <div className={css.user_info}>
             <div className={css.username}>{user.username}</div>
-            <img src='https://static.tvtropes.org/pmwiki/pub/images/abcb6534_7913_4eb1_a7a5_62b081ebc628.png' alt={'username'}/>
+            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXzzKQP6Go_tw9AK4uGceqcCpeKl5F-bb31Ggny8&s' alt={'username'}/>
         </div>
     )
 
